@@ -1,4 +1,9 @@
 # Github Deployment
+**Prerquisites**
+* git
+* github
+
+## Steps
 * for first time users
  * global username  : 
  * global email 
